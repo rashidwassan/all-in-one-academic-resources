@@ -1,6 +1,8 @@
 # Hello helpers & learners!
-## This repository is meant to provide the learning resource links to your fellow developers.
-### Feel free to contribute :)
+![all in one academic (1)](https://user-images.githubusercontent.com/60597290/189752671-5a7e045b-5cb0-4d73-b968-3a5c43c4f074.png)
+
+### This repository is created to provide you the information about different `Universities, global scholarships, GRE, GMAT, IELTS, TOEFL`, and much much more!
+### Sharing is caring, please feel free to contribute :)
 If you want to share the valuabe learning resource, be it a website or a YouTube channel which you found very useful, please let us know by contributing to this repository.
 
 ## How to contribute?

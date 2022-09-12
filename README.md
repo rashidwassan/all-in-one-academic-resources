@@ -11,13 +11,6 @@ If it's your first time to contribute, here's some help!
 ### 3: Create Branch and add your contribution
 ### 4: Push changes and make a pull request
 
-## Make sure the pattern for each resource is like:
-```
-## 1: Flutter (Official)
-### Flutter's official channel for lot of fun content, the best part is 'Flutter Widget of the Week' playlist.
-link: https://www.youtube.com/c/flutterdev
-```
-
 ## CONTRIBUTORS
 Amazing people who made their contributions. Feel free to contribute, and get yourself featured here!
 

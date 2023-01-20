@@ -58,5 +58,12 @@ Someone who is looking forward to getting enrolled in Grad School or Ph.D is sup
 
 
 ### 1.6: Section Adaptation (IMPORTANT)
+- There are three difficulty levels in GRE:
+  - Easy
+  - Medium
+  - Difficult
 - The test is adaptive and sets difficulty of succeeding section based on the performance in current.
+- If you perform well in first section, the next section will be harder, and vice versa.
 - Everyone starts with medium difficulty questions.
+- Remember: Test is not question adaptive, it is section adaptive. That means the difficulty of questions in a section is not dependent on the performance in that section, but on the performance in the previous section.
+- However, old GRE was question adaptive, but new GRE is not.

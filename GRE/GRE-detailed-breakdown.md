@@ -9,7 +9,8 @@ The Graduate Record Examinations is a standardized test that is an admissions re
 ### 1.2: Who should take GRE?
 Someone who is looking forward to getting enrolled in Grad School or Ph.D is supposed to take GRE first.
 
-### 1.3 GRE Parts:
+### 1.3 GRE Test Structure:
+GRE is divided into three sections:
 - **Essay**
   - Essay writing part can happen either before or after the other sections.
 - **Verbal**
@@ -48,6 +49,7 @@ Someone who is looking forward to getting enrolled in Grad School or Ph.D is sup
 - `Reading Comprehension:` ~9 per section (including paragraph argument).
 
 ### 1.5: Scoring in GRE
+- Each question is worth 1 point.
 - Scoring Ranges:
   - Both verbal and quant (maths) sections have score ranges of `130-170` each.
   - Total score: **340** max.
@@ -66,4 +68,11 @@ Someone who is looking forward to getting enrolled in Grad School or Ph.D is sup
 - If you perform well in first section, the next section will be harder, and vice versa.
 - Everyone starts with medium difficulty questions.
 - Remember: Test is not question adaptive, it is section adaptive. That means the difficulty of questions in a section is not dependent on the performance in that section, but on the performance in the previous section.
-- However, old GRE was question adaptive, but new GRE is not.
+- `However:` Questions in Quantitative Comparison tend to become difficult as you go on in single section.
+- `PS:` Old GRE was question adaptive, but new GRE is not.
+
+
+### 1.7: Time Saving Techniques
+- `Verbal:` Read the question first, then read the passage.
+- `Verbal:` Text completions are difficult, try not to spend more time on each.
+- `Quant:` Quantitative Comparison questions get harder eventually, feel free to skip last few questions and get back to them afterwards.

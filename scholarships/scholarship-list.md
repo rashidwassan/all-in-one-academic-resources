@@ -49,3 +49,12 @@
 ### 47: KFUPM Masters and PhD Scholarships
 ### 48: Hochschule Hof Scholarships
 ### 49: Rosa Luxemburg Foundation Scholarships
+
+
+# Exchange & Leadership Programs
+
+### 01: Global UGRAD
+### 02: SUSI (Study of The US Institutes)
+### 03: Hansen Summer Institute
+### 04: SUSI Women Leadership Program
+### 05: Sister2Sister Culture Exchange Program

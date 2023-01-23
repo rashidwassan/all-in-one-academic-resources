@@ -11,16 +11,24 @@
 [MEXT Japan Official Website](https://www.pk.emb-japan.go.jp/itpr_en/MEXT_Research_Scholarship.html)
 
 ### 04: DAAD Germany
-[]()
+[DAAD Official Website](https://www.daad.de/en/)
 
 ### 05: Chinese Government Scholarships
 ### 06: Bangkok Government Scholarships
 ### 07: Turkiye Burslari Scholarships
+[Official Website](https://www.turkiyeburslari.gov.tr/)
+
 ### 08: Gates Cambridge Scholarships
+[Cambridge Official Website](https://www.gatescambridge.org/)
+
 ### 09: Hungary Government Scholarships
+[Official Website](https://apply.stipendiumhungaricum.hu/)
+
 ### 10: Italian Government Scholarships
 ### 11: KAAD Scholarships Germany
 ### 12: Chevening Scholarships
+[Chevening Official Website](https://www.chevening.org/)
+
 ### 13: Gates Scholarship USA
 ### 14: Vanier Canada Graduate Scholarships
 ### 15: McCall MacBain Scholarships Canada

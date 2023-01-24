@@ -1,5 +1,5 @@
 # Hello helpers & learners!
-![all in one academic (1)](https://user-images.githubusercontent.com/60597290/189752671-5a7e045b-5cb0-4d73-b968-3a5c43c4f074.png)
+![My](https://user-images.githubusercontent.com/60597290/214320650-6363f908-66d5-4210-8c93-e43c16d06345.png)
 
 ### This repository is created to provide you the information about different `Universities, global scholarships, GRE, GMAT, IELTS, TOEFL`, and much much more!
 ### Sharing is caring, please feel free to contribute :)

@@ -98,37 +98,37 @@ The Gates Scholarship (TGS) is a highly selective, last-dollar scholarship for o
 [Official Website](https://www.studyinnl.org/finances/holland-scholarship)
 
 ### 33: Rotary Foundation Global Study Scholarships
-[Official Website]()
+[Official Website](https://www.rotary.org/en/our-programs/scholarships)
 
 ### 34: Agha Khan Foundation International Scholarship Program
-[Official Website]()
+[Official Website](https://the.akdn/en/what-we-do/developing-human-capacity/education/international-scholarships)
 
 ### 35: New Zealand International Scholarships
-[Official Website]()
+[Official Website](https://www.nzscholarships.govt.nz/)
 
 ### 36: The King Abdulaziz Scholarships
-[Official Website]()
+[Official Website](https://dsa-scholarships.kau.edu.sa/Default-211995-EN)
 
-### 37: AAUW Scholarships USA
-[Official Website]()
+### 37: AAUW Fellowship USA
+[Official Website](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
 
 ### 38: Schwarzman Scholarship China
-[Official Website]()
+[Official Website](https://www.schwarzmanscholars.org/)
 
 ### 39: Rhodes Scholarships UK
-[Official Website]()
+[Rhodes Trust Official Website](https://www.rhodeshouse.ox.ac.uk/)
 
 ### 40: Erasmus Mundus Scholarship
-[Official Website]()
+[Erasmus Mundus Catalogue](https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en)
 
 ### 41: Swiss Government Excellence Scholarships
-[Official Website]()
+[Official Website](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html)
 
 ### 42: Manaaki Scholarships New Zealand
-[Official Website]()
+[Official Website](https://www.nzscholarships.govt.nz/en/new-zealand-scholarships-for-international-tertiary-students/apply-online-for-a-new-zealand-scholarship/)
 
 ### 43: Joint Japan World Bank Scholarship
-[Official Website]()
+[Official Website](https://inquiries.worldbank.org/knowledgebase/articles/913995-joint-japan-world-bank-graduate-scholarship-progra)
 
 ### 44: Commonwealth Scholarships
 [Official Website]()

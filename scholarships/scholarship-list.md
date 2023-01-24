@@ -14,6 +14,7 @@
 [DAAD Official Website](https://www.daad.de/en/)
 
 ### 05: Chinese Government Scholarships
+[Website](https://www.chinesescholarshipcouncil.com/)
 ### 06: Bangkok Government Scholarships
 ### 07: Turkiye Burslari Scholarships
 [Official Website](https://www.turkiyeburslari.gov.tr/)
@@ -25,7 +26,9 @@
 [Official Website](https://apply.stipendiumhungaricum.hu/)
 
 ### 10: Italian Government Scholarships
+[Scholarship List](https://scholarshiproar.com/italy-scholarships-for-international-students/#:~:text=More%20than%20800%20scholarships%20are,health%20insurance%20and%20travel%20allowance.)
 ### 11: KAAD Scholarships Germany
+[KAAD Official Website](https://www.kaad.de/en/stipendien)
 ### 12: Chevening Scholarships
 [Chevening Official Website](https://www.chevening.org/)
 
@@ -35,6 +38,7 @@ The Gates Scholarship (TGS) is a highly selective, last-dollar scholarship for o
   - Applications are open in mid of July till mid of September.
 
 [Official Website](https://www.thegatesscholarship.org/scholarship)
+
 ### 14: Vanier Canada Graduate Scholarships
 ### 15: McCall MacBain Scholarships Canada
 ### 16: Knight-Hennessy Scholarships USA

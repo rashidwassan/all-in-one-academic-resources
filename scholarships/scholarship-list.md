@@ -37,44 +37,117 @@ The Gates Scholarship (TGS) is a highly selective, last-dollar scholarship for o
 - **Timeline:**
   - Applications are open in mid of July till mid of September.
 
-[Official Website](https://www.thegatesscholarship.org/scholarship)
+[Gates Scholarship Official Website](https://www.thegatesscholarship.org/scholarship)
 
 ### 14: Vanier Canada Graduate Scholarships
+[Vanier Canada Official Website](https://vanier.gc.ca/en/home-accueil.html)
+
 ### 15: McCall MacBain Scholarships Canada
+[McGill Official Website](https://www.mcgill.ca/gradapplicants/funding/external/mccall-macbain-scholarship)
+
 ### 16: Knight-Hennessy Scholarships USA
+[Knight-Hennessy Scholarships Official Website](https://knight-hennessy.stanford.edu/)
+
 ### 17: Canadian Government Banting Scholarships
+[Banting Scholarships Official Page](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html)
+
 ### 18: Austrian Government Scholarships
+[Official Website](https://studyinaustria.at/en/useful-tips/questions-and-answers/scholarships)<br/>
+[HEC Official Guide for Pakistani Students](https://www.hec.gov.pk/english/scholarshipsgrants/Guidelines/Pages/Guideline-for-Austria.aspx)
+
 ### 19: Lester B. Pearson Scholarships
+[Lester B. Pearson Scholarships Official Website](https://future.utoronto.ca/pearson/about/)
+
 ### 20: Rhodes Scholarship Canada
+[Rhodes Scholarship Official Website](https://www.rhodeshouse.ox.ac.uk/scholarships/applications/canada/)
+
 ### 21: Singapore International Graduate Award
+[Singapore International Graduate Award Official Website](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa)
+
 ### 22: Heinrich Boll Foundation Scholarship
+[ Boell Official Website](https://www.boell.de/en/scholarships)
+
 ### 23: Google PhD Fellowship
+[Official Website](https://research.google/outreach/phd-fellowship/)
+
 ### 24: Amsterdam Merit Scholarships
+[Official Website](https://www.uva.nl/en/education/fees-and-funding/masters-scholarships-and-loans/amsterdam-merit-scholarship/amsterdam-merit-scholarship.html)
+
 ### 25: SBW Berlin Scholarships
+[SBW Official Website](https://sbw.berlin/en/sbw-berlin-scholarship/)
+
 ### 26: KAUST Scholarships
+[KAUST Official Website](https://admissions.kaust.edu.sa/phd-fellowship.html)
+
 ### 27: UNIDROIT Research Scholarships
+[Official Website](https://www.unidroit.org/research-and-internships-2/)
+
 ### 28: British Council Scholarships
+[Official Website (Pakistan)](https://www.britishcouncil.pk/programmes/education/scholarships)
+
 ### 29: Asia Kakehashi Scholarship Japan
+[Official Website](https://afs.org/kakehashi-program-in-japan/)
+
 ### 30: EIFFEL Scholarships France
-### 31: Swedish Institute Scholarshins
+[Official Website](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence)
+
+### 31: Swedish Institute Scholarships
+[Official Website](https://studyinsweden.se/scholarships/)
+
 ### 32: Holland Scholarships
+[Official Website](https://www.studyinnl.org/finances/holland-scholarship)
+
 ### 33: Rotary Foundation Global Study Scholarships
+[Official Website]()
+
 ### 34: Agha Khan Foundation International Scholarship Program
+[Official Website]()
+
 ### 35: New Zealand International Scholarships
+[Official Website]()
+
 ### 36: The King Abdulaziz Scholarships
+[Official Website]()
+
 ### 37: AAUW Scholarships USA
+[Official Website]()
+
 ### 38: Schwarzman Scholarship China
+[Official Website]()
+
 ### 39: Rhodes Scholarships UK
+[Official Website]()
+
 ### 40: Erasmus Mundus Scholarship
+[Official Website]()
+
 ### 41: Swiss Government Excellence Scholarships
+[Official Website]()
+
 ### 42: Manaaki Scholarships New Zealand
+[Official Website]()
+
 ### 43: Joint Japan World Bank Scholarship
+[Official Website]()
+
 ### 44: Commonwealth Scholarships
+[Official Website]()
+
 ### 45: The Swedish Institute Scholarships
+[Official Website]()
+
 ### 46: Johnson & Johnson Scholars Program
+[Official Website]()
+
 ### 47: KFUPM Masters and PhD Scholarships
+[Official Website]()
+
 ### 48: Hochschule Hof Scholarships
+[Official Website]()
+
 ### 49: Rosa Luxemburg Foundation Scholarships
+[Official Website]()
+
 
 <br/><br/>
 # Exchange & Leadership Programs

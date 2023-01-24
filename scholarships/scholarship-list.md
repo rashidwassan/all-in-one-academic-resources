@@ -30,6 +30,11 @@
 [Chevening Official Website](https://www.chevening.org/)
 
 ### 13: Gates Scholarship USA
+The Gates Scholarship (TGS) is a highly selective, last-dollar scholarship for outstanding, minority, high school seniors from low-income households. Each year, the scholarship is awarded to exceptional student leaders, with the intent of helping them realize their maximum potential.<br/>
+- **Timeline:**
+  - Applications are open in mid of July till mid of September.
+
+[Official Website](https://www.thegatesscholarship.org/scholarship)
 ### 14: Vanier Canada Graduate Scholarships
 ### 15: McCall MacBain Scholarships Canada
 ### 16: Knight-Hennessy Scholarships USA

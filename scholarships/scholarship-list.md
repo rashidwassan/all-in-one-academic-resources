@@ -131,7 +131,7 @@ The Gates Scholarship (TGS) is a highly selective, last-dollar scholarship for o
 [Official Website](https://inquiries.worldbank.org/knowledgebase/articles/913995-joint-japan-world-bank-graduate-scholarship-progra)
 
 ### 44: Commonwealth Scholarships
-[Official Website](https://study-uk.britishcouncil.org/scholarships-funding/commonwealth-scholarships)
+[Commonwealth Scholarships Official Website](https://study-uk.britishcouncil.org/scholarships-funding/commonwealth-scholarships)
 
 ### 45: The Swedish Institute Scholarships
 [Official Website](https://si.se/en/apply/scholarships/)
@@ -146,10 +146,10 @@ The Gates Scholarship (TGS) is a highly selective, last-dollar scholarship for o
 [Official Website](https://www.hof-university.com/studying-at-hof-university/how-to-finance-your-studies.html)
 
 ### 49: Rosa Luxemburg Foundation Scholarships
-[Official Website](https://www.rosalux.de/en/foundation/studienwerk)
+[Rosa Luxemburg Foundation Official Website](https://www.rosalux.de/en/foundation/studienwerk)
 
 ### 50: World Bank Scholarship Program
-[Official Website](https://www.worldbank.org/en/programs/scholarships)
+[Official Program Website](https://www.worldbank.org/en/programs/scholarships)
 
 
 <br/><br/>

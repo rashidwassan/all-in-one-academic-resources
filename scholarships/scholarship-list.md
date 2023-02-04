@@ -79,6 +79,14 @@ The Gates Scholarship (TGS) is a highly selective, last-dollar scholarship for o
 ### 26: KAUST Scholarships
 [KAUST Official Website](https://admissions.kaust.edu.sa/phd-fellowship.html)
 
+`Scholarship Summary:`
+King Abdulaziz University offers a Fully Funded Scholarship in Saudi Arabia for all the International Students from around the world.
+King Abdulaziz University is offering all the academic programs including Sciences, Engineering, Humanities, Arts, Information Technology, Business Administrations, Computer Engineering & Sciences Fields For both Masters & Ph.D.
+- Host country: Saudi Arabia
+- Available for Undergraduate, Masters, & Ph.D.
+- Program period: UG: 4yr, MS: 2yr, Ph.D: 3yr.
+- Deadline: Open All Year
+
 ### 27: UNIDROIT Research Scholarships
 [Official Website](https://www.unidroit.org/research-and-internships-2/)
 
